@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/gradienttest6.jpg "Binary Example"
 [image4]: ./output_images/binary_warped.jpg "Warp Example"
 [image5]: ./output_images/fit_lane_lines.jpg "Fit Visual"
-[image6]: ./output_images/detected_lanes_undidtorted.jpg "Output"
+[image6]: ./output_images/detected_lanes_undistorted.jpg "Output"
 [video1]: ./test.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
